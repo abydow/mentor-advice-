@@ -1,6 +1,4 @@
-There is not enough context in your query "ert to english" to provide a targeted answer, but if you are seeking the English translation for "mentoria_devops" or content from the file, here’s the translation based on the DevOps roadmap from the attached repository:
-
-- Choose a language: Java or .NET.
+- Choose a language: Java or .NET.(for me python and golang)
 - SQL.
 - HTML CSS.
 - Node (JavaScript).
